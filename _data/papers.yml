@@ -1,0 +1,53 @@
+- year: 2017
+  papers:
+    - title: "Ordinal Common-sense Inference."
+      venue: "TACL"
+      authors: "Sheng Zhang, Rachel Rudinger, Kevin Duh, and Benjamin Van Durme"
+      pdf: "https://arxiv.org/pdf/1611.00601.pdf"
+    - title: "Social Bias in Elicited Natural Language Inferences."
+      venue: "Ethics in Natural Language Processing"
+      authors: "Rachel Rudinger, Chandler May, and Benjamin Van Durme"
+      pdf: "http://www.ethicsinnlp.org/workshop/pdf/EthNLP09.pdf"
+- year: 2016
+  papers:
+    - title: "Universal decompositional semantics on universal dependencies."
+      venue: "EMNLP"
+      authors: "Aaron Steven White, Drew Reisinger, Keisuke Sakaguchi, Tim Vieira, Sheng Zhang, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme"
+      pdf: "https://aclweb.org/anthology/D/D16/D16-1177.pdf"
+    - title: "Computational linking theory."
+      venue: "Web manuscript"
+      authors: "Aaron Steven White, Drew Reisinger, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme"
+      pdf: "https://arxiv.org/pdf/1610.02544.pdf"
+- year: 2015
+  papers:
+    - title: "Semantic Proto-Roles."
+      venue: "TACL"
+      authors: "Drew Reisinger, Rachel Rudinger, Francis Ferraro, Craig Harman, Kyle Rawlins, and Benjamin Van Durme"
+      pdf: "https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/674/149"
+      year: 2015
+    - title: "Script Induction as Language Modeling."
+      venue: "EMNLP"
+      authors: "Rachel Rudinger, Pushpendre Rastogi, Francis Ferraro, and Benjamin Van Durme"
+      year: 2015
+      pdf: "http://www.aclweb.org/anthology/D/D15/D15-1195.pdf"
+      code: 
+    - title: "Learning to predict script events from domain-specific text."
+      venue: "*SEM"
+      authors: "Rachel Rudinger, Vera Demberg, Ashutosh Modi, Benjamin Van Durme, and Manfred Pinkal"
+      pdf: "http://www.aclweb.org/anthology/S/S15/S15-1.pdf#page=223"
+      year: 2015
+      code: "https://github.com/rudinger/nachos"
+- year: 2014
+  papers:
+    - title: "Is the Stanford Dependency Representation Semantic?"
+      venue: "ACL 2nd Workshop on EVENTS: Definition, Detection, Coreference, and Representation"
+      authors: Rachel Rudinger and Benjamin Van Durme
+      pdf: "http://acl2014.org/acl2014/W14-29/W14-29-2014.pdf#page=64"
+      year: 2014
+- year: 2013
+  papers:
+    - title: "Sensespotting: Never let your parallel data tie you to an old domain."
+      venue: "ACL"
+      authors: "Marine Carpuat, Hal Daumé III, Katharine Henry, Ann Irvine, Jagadeesh Jagarlamudi, and Rachel Rudinger"
+      pdf: "http://aclweb.org/anthology/P/P13/P13-1141.pdf"
+      year: 2013
