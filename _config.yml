@@ -30,7 +30,6 @@ google_scholar: https://scholar.google.com/citations?user=QKCHaHUAAAAJ&hl=en&oi=
 # this and add the path to the pages in order as they should show up
 header_pages:
  - publications.md
- - news.md
  - cv.md
 
 # Build settings
