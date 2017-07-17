@@ -1,7 +1,10 @@
 - year: 2017
   papers:
+    - title: "Skip-Prop: Representing Sentences with One Vector Per Proposition."
+      venue: "IWCS, to appear"
+      authors: "Rachel Rudinger, Kevin Duh, and Benjamin Van Durme"
     - title: "A Large-scale Evaluation of PredPatt against PropBank."
-      venue: "IWCS"
+      venue: "IWCS, to appear"
       authors: "Sheng Zhang, Rachel Rudinger, and Benjamin Van Durme"
     - title: "Ordinal Common-sense Inference."
       venue: "TACL"
