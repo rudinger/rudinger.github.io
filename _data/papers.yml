@@ -1,5 +1,8 @@
 - year: 2017
   papers:
+    - title: "A Large-scale Evaluation of PredPatt against PropBank."
+      venue: "IWCS"
+      authors: "Sheng Zhang, Rachel Rudinger, and Benjamin Van Durme"
     - title: "Ordinal Common-sense Inference."
       venue: "TACL"
       authors: "Sheng Zhang, Rachel Rudinger, Kevin Duh, and Benjamin Van Durme"
