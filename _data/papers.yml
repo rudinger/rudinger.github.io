@@ -1,19 +1,23 @@
 - year: 2017
   papers:
     - title: "Skip-Prop: Representing Sentences with One Vector Per Proposition."
-      venue: "IWCS, to appear"
+      venue: "IWCS"
       authors: "Rachel Rudinger, Kevin Duh, and Benjamin Van Durme"
+      pdf: "http://www.aclweb.org/anthology/W17-6936"
     - title: "A Large-scale Evaluation of PredPatt against PropBank."
-      venue: "IWCS, to appear"
+      venue: "IWCS"
       authors: "Sheng Zhang, Rachel Rudinger, and Benjamin Van Durme"
+      pdf: "http://www.aclweb.org/anthology/W17-6944"
     - title: "Ordinal Common-sense Inference."
       venue: "TACL"
       authors: "Sheng Zhang, Rachel Rudinger, Kevin Duh, and Benjamin Van Durme"
       pdf: "https://arxiv.org/pdf/1611.00601.pdf"
+      data: "http://decomp.net/common-sense-inference/"
     - title: "Social Bias in Elicited Natural Language Inferences."
       venue: "Ethics in Natural Language Processing"
       authors: "Rachel Rudinger, Chandler May, and Benjamin Van Durme"
       pdf: "http://www.ethicsinnlp.org/workshop/pdf/EthNLP09.pdf"
+      code: "https://github.com/cjmay/snli-ethics"
 - year: 2016
   papers:
     - title: "Universal decompositional semantics on universal dependencies."
