@@ -4,8 +4,10 @@
       venue: "NAACL (to appear)"
       authors: "Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme"
     - title: "Neural Models of Factuality."
-      venue: "NAACL (to appear)"
+      venue: "NAACL"
       authors: "Rachel Rudinger, Aaron Steven White, and Benjamin Van Durme"
+      pdf: "https://arxiv.org/pdf/1804.02472.pdf"
+      data: "decomp.net"
 - year: 2017
   papers:
     - title: "Skip-Prop: Representing Sentences with One Vector Per Proposition."
