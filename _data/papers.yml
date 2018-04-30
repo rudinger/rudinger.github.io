@@ -1,8 +1,10 @@
 - year: 2018
   papers:
     - title: "Gender Bias in Coreference Resolution."
-      venue: "NAACL (to appear)"
+      venue: "NAACL"
       authors: "Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme"
+      pdf: "https://arxiv.org/abs/1804.09301"
+      data: "https://github.com/rudinger/winogender-schemas"
     - title: "Neural Models of Factuality."
       venue: "NAACL"
       authors: "Rachel Rudinger, Aaron Steven White, and Benjamin Van Durme"
