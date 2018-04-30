@@ -1,5 +1,9 @@
 - year: 2018
   papers:
+    - title: "Hypothesis Only Baselines in Natural Language Inference."
+      venue: "*SEM"
+      authors: "Adam Poliak, Jason Naradowsky, Aparajita Haldar, Rachel Rudinger, and Benjamin Van Durme"
+      pdf: "http://www.cs.jhu.edu/~apoliak1/papers/HYPOTHESIS-ONLY-BASELINES-NLI.pdf"
     - title: "Gender Bias in Coreference Resolution."
       venue: "NAACL"
       authors: "Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme"
