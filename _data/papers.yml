@@ -13,7 +13,7 @@
       venue: "NAACL"
       authors: "Rachel Rudinger, Aaron Steven White, and Benjamin Van Durme"
       pdf: "https://arxiv.org/pdf/1804.02472.pdf"
-      data: "decomp.net"
+      data: "http://decomp.net"
 - year: 2017
   papers:
     - title: "Skip-Prop: Representing Sentences with One Vector Per Proposition."
