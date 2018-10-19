@@ -50,17 +50,17 @@
   papers:
     - title: "Universal decompositional semantics on universal dependencies."
       venue: "EMNLP"
-      authors: "Aaron Steven White, Drew Reisinger, Keisuke Sakaguchi, Tim Vieira, Sheng Zhang, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme"
+      authors: "Aaron Steven White, D. Reisinger, Keisuke Sakaguchi, Tim Vieira, Sheng Zhang, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme"
       pdf: "https://aclweb.org/anthology/D/D16/D16-1177.pdf"
     - title: "Computational linking theory."
       venue: "Web manuscript"
-      authors: "Aaron Steven White, Drew Reisinger, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme"
+      authors: "Aaron Steven White, D. Reisinger, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme"
       pdf: "https://arxiv.org/pdf/1610.02544.pdf"
 - year: 2015
   papers:
     - title: "Semantic Proto-Roles."
       venue: "TACL"
-      authors: "Drew Reisinger, Rachel Rudinger, Francis Ferraro, Craig Harman, Kyle Rawlins, and Benjamin Van Durme"
+      authors: "D. Reisinger, Rachel Rudinger, Francis Ferraro, Craig Harman, Kyle Rawlins, and Benjamin Van Durme"
       pdf: "https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/674/149"
     - title: "Script Induction as Language Modeling."
       venue: "EMNLP"
