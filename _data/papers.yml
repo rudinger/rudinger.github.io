@@ -1,3 +1,8 @@
+- year: 2019
+  papers:
+    - title: "ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-constrained Neural Machine Translation"
+      venue: "Accepted to AAAI"
+      authors: "Edward Hu, Rachel Rudinger, Chu-Cheng Lin, Matt Post, and Benjamin Van Durme"
 - year: 2018
   papers:
     - title: "Neural-Davidsonian Semantic Proto-role Labeling."
