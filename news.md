@@ -5,6 +5,7 @@ permalink: /news/
 ---
 
 # Recent or upcoming events:
+March 14, 2019 - Invited talk at Stanford.
 
 January 11, 2019 - Invited talk at Georgetown.
 
@@ -14,4 +15,4 @@ October 2018 - Attending [MIT EECS Rising Stars](https://risingstars18-eecs.mit.
 
 September 2018 - Interviewed on [NLP Highlights](https://soundcloud.com/nlp-highlights/68-neural-models-of-factuality-with-rachel-rudinger) podcast.
 
-March 2018 - Attended a Women in Research Lean In event at Facebook.
+March 2018 - "Women in Research Lean In" event at Facebook.
