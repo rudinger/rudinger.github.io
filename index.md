@@ -16,5 +16,3 @@ computationally-tractable semantic representations, and semantic parsing.
 I am also a contributing member of the [Decompositional Semantics Initiative](http://decomp.io).
 Before coming to JHU, I received my B.S. in Computer Science from Yale
 University, where I worked with Dana Angluin and Bob Frank.
-
-I am currently on the job market for Fall 2019. Please feel free to reach out!
