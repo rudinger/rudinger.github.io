@@ -1,8 +1,13 @@
 - year: 2019
   papers:
+    - title: "On Measuring Social Biases in Sentence Encoders."
+      venue: "NAACL"
+      authors: "Chandler May, Alex Wang, Shikha Bordia, Sam Bowman, and Rachel Rudinger"
+      pdf: "https://arxiv.org/pdf/1903.10561.pdf"
     - title: "ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-constrained Neural Machine Translation."
       venue: "Accepted to AAAI"
       authors: "Edward Hu, Rachel Rudinger, Matt Post, and Benjamin Van Durme"
+      pdf: "https://arxiv.org/pdf/1901.03644.pdf"
 - year: 2018
   papers:
     - title: "Neural-Davidsonian Semantic Proto-role Labeling."
