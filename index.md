@@ -8,7 +8,7 @@ layout: default
 <img src="assets/images/rr.jpg" alt="Drawing" style="width: 200px;"/> 
 
 Starting Fall 2020, I will be an Assistant Professor of Computer Science at the
-University of Maryland, Collegel Park.
+University of Maryland, College Park.
 During 2019-2020, I am a [Young Investigator](https://allenai.org/young-investigators.html)
 for the Allen Institute for Artificial Intelligence (AI2) in Seattle, WA.
 
