@@ -1,11 +1,19 @@
 - year: 2019
   papers:
+    - title: "Decompositional Semantics for Events,
+Participants, and Scripts in Text."
+      venue: "Doctoral Dissertation"
+      authors: "Rachel Rudinger"
+    - title: "The Universal Decompositional Semantics Dataset and Decomp Toolkit."
+      venue: "arXiv"
+      authors: "Aaron Steven White, Elias Stengel-Eskin, Siddharth Vashishtha, Venkata Govindarajan, Dee Ann Reisinger, Tim Vieira, Keisuke Sakaguchi, Sheng Zhang, Francis Ferraro, Rachel Rudinger, Kyle Rawlins, Benjamin Van Durme"
+      pdf: "https://arxiv.org/pdf/1909.13851.pdf"
     - title: "On Measuring Social Biases in Sentence Encoders."
       venue: "NAACL"
       authors: "Chandler May, Alex Wang, Shikha Bordia, Sam Bowman, and Rachel Rudinger"
       pdf: "https://arxiv.org/pdf/1903.10561.pdf"
     - title: "ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-constrained Neural Machine Translation."
-      venue: "Accepted to AAAI"
+      venue: "AAAI"
       authors: "Edward Hu, Rachel Rudinger, Matt Post, and Benjamin Van Durme"
       pdf: "https://arxiv.org/pdf/1901.03644.pdf"
 - year: 2018
