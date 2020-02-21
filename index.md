@@ -18,5 +18,3 @@ My research focuses on problems in natural language understanding, including
 knowledge acquisition from text, commonsense inference,
 computationally-tractable semantic representations, and semantic parsing.
 I am also a contributing member of the [Decompositional Semantics Initiative](http://decomp.io).
-Previously, I received my B.S. in Computer Science from Yale
-University, where I worked with Dana Angluin and Bob Frank.
