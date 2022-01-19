@@ -30,8 +30,8 @@ google_scholar: https://scholar.google.com/citations?user=QKCHaHUAAAAJ&hl=en&oi=
 # this and add the path to the pages in order as they should show up
 header_pages:
  - publications.md
- - cv.md
- - news.md
+# - cv.md
+# - news.md
 
 # Build settings
 markdown: kramdown

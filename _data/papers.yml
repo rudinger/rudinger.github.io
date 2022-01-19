@@ -1,3 +1,36 @@
+- year: 2022
+  papers:
+    - title: "Entailment Relation Aware Paraphrase Generation"
+      venue: "AAAI (to appear)"
+      authors: "Abhilasha Sancheti, Rachel Rudinger, Balaji Vasan Srinivasan"
+- year: 2021
+  papers:
+    - title: "What do Large Language Models Learn about Scripts?"
+      venue: "arXiv preprint"
+      authors: "Abhilasha Sancheti, Rachel Rudinger"
+    - title: "Analyzing Stereotypes in Generative Text Inference Tasks"
+      venue: "Findings of ACL-IJCNLP"
+      authors: "Anna Sotnikova, Yang Trista Cao, Hal Daumé III, Rachel Rudinger"
+    - title: "MedNLI is not Immune: Natural Language Inference Artifacts in the Clinical Domain"
+      venue: "ACL"
+      authors: "Christine Herlihy, Rachel Rudinger"
+    - title: "Schema Curation via Causal Association Rule Mining"
+      venue: "arXiv preprint"
+      authors: "Noah Weber, Anton Belyy, Nils Holzenberger, Rachel Rudinger, Benjamin Van Durme"
+- year: 2020
+  papers:
+    - title: "Learning to Rationalize for Nonmonotonic Reasoning with Distant Supervision"
+      venue: "AAAI"
+      authors: "Faeze Brahman, Vered Shwartz, Rachel Rudinger, Yejin Choi"
+    - title: "Thinking Like a Skeptic: Defeasible Inference in Natural Language"
+      venue: "Findings of EMNLP"
+      authors: "Rachel Rudinger, Vered Shwartz, Jena D. Hwang, Chandra Bhagavatula, Maxwell Forbes, Ronan Le Bras, Noah A. Smith, Yejin Choi"
+    - title: "\"You are grounded!\": Latent Name Artifacts in Pre-trained Language Models"
+      venue: "EMNLP"
+      authors: "Vered Shwartz, Rachel Rudinger, Oyvind Tafjord"
+    - title: "Causal Inference of Script Knowledge"
+      venue: "EMNLP"
+      authors: "Noah Weber, Rachel Rudinger, Benjamin Van Durme"
 - year: 2019
   papers:
     - title: "Decompositional Semantics for Events,
